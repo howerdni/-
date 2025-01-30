@@ -252,4 +252,5 @@ $$
 
 通过上述功能和应用，苏州电网 DIgSILENT 仿真平台不仅提升了电力系统仿真的精度和效率，还为电力规划、运行和优化提供了强有力的技术支持，助力实现电力系统的高效、安全和可持续发展。
 
-
+### Platform-Figure
+![image](https://github.com/howerdni/Suzhou-PowerGrid-Simulation/blob/main/39d7d82b5db988ae2fba12780f38d06.png)
