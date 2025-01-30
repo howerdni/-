@@ -254,3 +254,4 @@ $$
 
 ### Platform-Figure
 ![image](https://github.com/howerdni/Suzhou-PowerGrid-Simulation/blob/main/39d7d82b5db988ae2fba12780f38d06.png)
+![image](https://github.com/howerdni/Suzhou-PowerGrid-Simulation/blob/main/95c1726f32cd441d82d17a923328532.png)
